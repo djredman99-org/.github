@@ -1,7 +1,7 @@
 {
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI workflow template.",
-    "iconName": "536452.png",
+    "iconName": "my-icon",
     "categories": [
         "Go"
     ],
